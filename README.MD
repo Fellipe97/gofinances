@@ -28,7 +28,7 @@
 </p>
 <h1><b>Resultado:</b></h1>
 <div class="box">
-    <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela1_android.jpeg" alt="tela1_android" width="150" height="250">
+    <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela1_android.jpeg" alt="tela1_android" width="300" height="500">
     <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela1_ios.jpeg" alt="tela1_ios" width="300" height="500">
     <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela2_listagem.jpeg" alt="tela2_listagem" width="300" height="500">
     <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela3_cadastro.jpeg" alt="tela3_cadastro" width="300" height="500">
