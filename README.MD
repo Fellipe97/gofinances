@@ -16,7 +16,8 @@
         <li>Async Storage</li>
         <li>Contextos e Autenticações</li>
     </ul>
-
+</p>
+<p>
     Foi desenvolvido um app de controle de financeiro individual, que contém as seguintes funcionalidades:
     <ul>
         <li>Login(Google ou Apple) e logout</li>
@@ -24,7 +25,7 @@
         <li>Cadastrar um gasto ou entrada dinheiro</li>
         <li>Gráfico dos gastos</li>
     </ul>
-
+</p>
 <h1><b>Resultado:</b></h1>
 <div class="box">
     <img src="https://github.com/Fellipe97/ToDo_list_desafio/blob/main/tela1.jpeg" alt="Tela1" width="300" height="500">
