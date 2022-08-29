@@ -28,8 +28,13 @@
 </p>
 <h1><b>Resultado:</b></h1>
 <div class="box">
-    <img src="https://github.com/Fellipe97/ToDo_list_desafio/blob/main/tela1.jpeg" alt="Tela1" width="300" height="500">
-    <img src="https://github.com/Fellipe97/ToDo_list_desafio/blob/main/tela2.jpeg" alt="Tela1" width="300" height="500">
+    <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela1_android.jpeg" alt="tela1_android" width="300" height="500">
+    <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela1_ios.jpeg" alt="tela1_ios" width="300" height="500">
+    <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela2_listagem.jpeg" alt="tela2_listagem" width="300" height="500">
+    <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela3_cadastro.jpeg" alt="tela3_cadastro" width="300" height="500">
+    <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela3_erro.jpeg" alt="Tela1" width="tela3_erro" height="500">
+    <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela3_sucesso.jpeg" alt="tela3_sucesso" width="300" height="500">
+    <img src="https://github.com/Fellipe97/gofinances/blob/main/imgsGithub/tela4_grafio.jpeg" alt="tela4_grafio" width="300" height="500">
 </div>
 
 
